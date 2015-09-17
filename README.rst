@@ -111,3 +111,8 @@ To prevent future updates of python, you could mark its packages. For example, i
 .. code-block:: bash
 
     sudo apt-mark hold idle-python2.7 libpython2.7-minimal python2.7-dbg python2.7-minimal libpython2.7 libpython2.7-stdlib python2.7-dev libpython2.7-dbg  libpython2.7-testsuite python2.7-doc libpython2.7-dev python2.7 python2.7-examples
+
+
+.. image:: https://badges.gitter.im/Join%20Chat.svg
+   :alt: Join the chat at https://gitter.im/instantchow/python-openzwave
+   :target: https://gitter.im/instantchow/python-openzwave?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
